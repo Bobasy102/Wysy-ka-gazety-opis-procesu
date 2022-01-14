@@ -81,8 +81,7 @@ dbałość o szczegóły - 3
 
 
 ### Tutorial − instrukcja obrazkowa dla Persony A i Persony B (p. 1 i 2)
-### Proces − wysyłka gazety do drukarni
-**Warunki brzegowe − plik został przygotowany w InDesign, sprawdzony, skorygowany i graficznie wyszlifowany. Graficznie i merytorycznie jest gotowy.**
+
 
 
 ##  **Spis treści**
