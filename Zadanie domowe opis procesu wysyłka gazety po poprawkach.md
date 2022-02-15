@@ -2,7 +2,7 @@
 
 #  **Wysyłka gazety do drukarni - opis procesu**
 
-
+![Okładka](https://dodr.pl/xthumb,qw=145,asrc=,_userfiles,_contents,_miesieczniki,_164,_1b.jpg.pagespeed.ic.PTrK09l9Wg.webp)
 
 
 ## **Spis treści**
